@@ -47,7 +47,15 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 498}
   m_MaxSize: {x: 14004, y: 14048}
   vertical: 0
+<<<<<<< Updated upstream
   controlID: 10
+=======
+<<<<<<< HEAD
+  controlID: 22
+=======
+  controlID: 10
+>>>>>>> origin/master
+>>>>>>> Stashed changes
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -243,7 +251,15 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 224}
   m_MaxSize: {x: 8006, y: 4024}
   vertical: 0
+<<<<<<< Updated upstream
   controlID: 24
+=======
+<<<<<<< HEAD
+  controlID: 64
+=======
+  controlID: 24
+>>>>>>> origin/master
+>>>>>>> Stashed changes
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -261,8 +277,18 @@ MonoBehaviour:
     serializedVersion: 2
     x: 439
     y: 0
+<<<<<<< Updated upstream
     width: 1602
     height: 796
+=======
+<<<<<<< HEAD
+    width: 1573
+    height: 811
+=======
+    width: 1602
+    height: 796
+>>>>>>> origin/master
+>>>>>>> Stashed changes
   m_MinSize: {x: 204, y: 224}
   m_MaxSize: {x: 4004, y: 4024}
   m_ActualView: {fileID: 16}
@@ -347,9 +373,21 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< Updated upstream
     m_SelectedIDs: 54090000
     m_LastClickedID: 2388
     m_ExpandedIDs: 000000005409000000ca9a3b
+=======
+<<<<<<< HEAD
+    m_SelectedIDs: 56090000
+    m_LastClickedID: 2390
+    m_ExpandedIDs: 000000005609000000ca9a3b
+=======
+    m_SelectedIDs: 54090000
+    m_LastClickedID: 2388
+    m_ExpandedIDs: 000000005409000000ca9a3b
+>>>>>>> origin/master
+>>>>>>> Stashed changes
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -377,7 +415,15 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< Updated upstream
     m_ExpandedIDs: 0000000054090000
+=======
+<<<<<<< HEAD
+    m_ExpandedIDs: 0000000056090000
+=======
+    m_ExpandedIDs: 0000000054090000
+>>>>>>> origin/master
+>>>>>>> Stashed changes
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -404,7 +450,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -498,7 +544,15 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
+<<<<<<< Updated upstream
       m_ExpandedIDs: befbffff
+=======
+<<<<<<< HEAD
+      m_ExpandedIDs: d4fbffff
+=======
+      m_ExpandedIDs: befbffff
+>>>>>>> origin/master
+>>>>>>> Stashed changes
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
