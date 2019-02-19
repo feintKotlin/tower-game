@@ -3,3 +3,7 @@ Logs/
 ProjectSettings/
 Temp/
 Packages/
+obj/
+v15
+Tower-Assets/Assembly-CSharp.csproj
+Tower-Assets/Tower-Assets.sln
