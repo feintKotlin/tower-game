@@ -1,0 +1,8 @@
+#忽略Tower/Library、Logs、Packages、ProjectSettings
+Tower/Library/
+Tower/Logs/
+Tower/Packages/
+Tower/ProjectSettings/
+#忽略 csproj 、sln 后缀
+*.csproj
+*.sln
