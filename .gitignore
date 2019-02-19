@@ -1,8 +1,9 @@
-#忽略Tower/Library、Logs、Packages、ProjectSettings
-Tower/Library/
-Tower/Logs/
-Tower/Packages/
-Tower/ProjectSettings/
-#忽略 csproj 、sln 后缀
-*.csproj
-*.sln
+Library/
+Logs/
+ProjectSettings/
+Temp/
+Packages/
+obj/
+v15
+Tower-Assets/Assembly-CSharp.csproj
+Tower-Assets/Tower-Assets.sln
