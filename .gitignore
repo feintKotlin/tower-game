@@ -1,1 +1,5 @@
-.Library/
+Library/
+Logs/
+ProjectSettings/
+Temp/
+Packages/
